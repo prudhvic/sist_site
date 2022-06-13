@@ -31,11 +31,10 @@ body {
   text-decoration: none;
   font-weight: bold;
   padding: 0.3em 0.6em;
-  width: 50%;
+  width: max-content;
   border-radius: 6px;
   color: #831238;
   font-size: 1rem;
-  white-space: nowrap;
   margin: 0 auto;
 }
 .container a:is(:hover, :focus) {
