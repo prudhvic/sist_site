@@ -34,7 +34,7 @@ body {
   width: 50%;
   border-radius: 6px;
   color: #831238;
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin: 0 auto;
 }
 .container a:is(:hover, :focus) {
