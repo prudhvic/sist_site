@@ -14,7 +14,7 @@ body {
 }
 .title {
   color: white;
-  font-size: clamp(1.5rem, 5vw, 4rem);
+  font-size: clamp(1.8rem, 5vw, 4rem);
   white-space: nowrap;
 }
 .container {
@@ -34,7 +34,8 @@ body {
   width: 50%;
   border-radius: 6px;
   color: #831238;
-  font-size: 1rem;
+  font-size: 1.1rem;
+  white-space: nowrap;
   margin: 0 auto;
 }
 .container a:is(:hover, :focus) {
